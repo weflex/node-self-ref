@@ -1,6 +1,6 @@
 {
   "name": "self-ref",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "reference self via node_modules",
   "main": "index.js",
   "scripts": {
