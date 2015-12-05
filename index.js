@@ -12,6 +12,6 @@ function accessPkgInfo () {
 }
 
 const path = require('path');
-const modpath = path.join(__dirname, '../../', pkgInfo.main);
+const modpath = path.join(__dirname, '../../', accessPkgInfo().main);
 module.exports = require(modpath);
 
