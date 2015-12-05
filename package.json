@@ -1,0 +1,23 @@
+{
+  "name": "self-ref",
+  "version": "1.0.0",
+  "description": "reference self via node_modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/weflex/node-self-ref.git"
+  },
+  "keywords": [
+    "node",
+    "self"
+  ],
+  "author": "Yorkie Liu <yorkiefixer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weflex/node-self-ref/issues"
+  },
+  "homepage": "https://github.com/weflex/node-self-ref#readme"
+}
