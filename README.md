@@ -9,7 +9,7 @@ notice the following:
 
 ## Installation
 
-```bash
+```sh
 $ npm install self-ref --save-dev
 ```
 
